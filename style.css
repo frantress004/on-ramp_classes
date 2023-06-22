@@ -1,0 +1,10 @@
+h1  {
+    font-size: 40px;
+    color: red;
+    }
+
+    input{
+      width: 150px;
+      height: 200px;
+      border-radius: 4px;
+    }
